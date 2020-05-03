@@ -1,4 +1,4 @@
-##  Teaching Portfolio
+##  Gregory's Teaching Portfolio
 
 
 ### Teaching Philosphy
@@ -6,17 +6,20 @@ Learning is natural human activity, teaching is guiding learners how to think ab
 
 https://vimeo.com/381797279
 
-Workshops
+#### Workshops
 ESL video 
 https://vimeo.com/141264472
+
 Information skills using the van Deursen (2010) framework 
 https://vimeo.com/381797279
+
 Email marketing training for WWF-Vietnam 
 https://vimeo.com/224427701
 
-Leasons 
+#### Leasons 
 Direct instruction of Developing and Maintaining Long-term Relationships
 https://vimeo.com/369258156
+
 Direct instruction of Branding and Positioning
 https://vimeo.com/374075235
 
@@ -39,9 +42,9 @@ First Aid certificate
 
 ### Experience
 Training and Assessor at Institute of Training and Further Education, Melbourne, Australia
-Training director to Ewise online learning
+Training director to Ewise online learning https://ewise.edu.vn/thanh-vien/giangvien1/
 Instructional Designer at Brainwork 
 Lecturer at Học Viện Ngân Hàng for the Sunderland University BTEC program. 
- Delivering: Business Organisation and Environment, Marketing strategy, Project      Management. Assessing Master of Science in Finance dissertation.
+ Delivering: Business Organisation and Environment, Marketing strategy, Project Management. Assessing Master of Science in Finance dissertation.
 Lecturer at Khoa Quốc tế - ĐHQGHN
 
