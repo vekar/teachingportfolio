@@ -11,6 +11,7 @@ ESL video
 Video https://vimeo.com/141264472
 
 Information skills using the van Deursen (2010) framework 
+![]({{site.baseurl}}/https://github.com/vekar/teachingportfolio/blob/master/USQ-information-skills.001.jpeg?raw=true)
 [Video link ](https://vimeo.com/381797279 "Classroom video")
 [Handout link ](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A6b1dabfb-420c-4602-9dce-ffb703a1cedd "Workshop handout")
 
@@ -24,7 +25,7 @@ https://vimeo.com/369258156
 Direct instruction of Branding and Positioning
 https://vimeo.com/374075235
 
-![Elearning]({{site.baseurl}}/https://github.com/vekar/teachingportfolio/blob/master/E-Learning-project.gif)
+![Elearning]({{site.baseurl}}https://github.com/vekar/teachingportfolio/blob/master/E-Learning-project.gif?raw=true)
 
 ### Education
 Bachelor of Design (Communication Design), Swinburne School of Design, Melbourne, Australia
