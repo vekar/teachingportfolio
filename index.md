@@ -1,27 +1,24 @@
-
-
-
-### TeachingPhilosphy
-Learning is natural human activity, teaching is guiding learners how to think about a subject so the knowledge becomes part of themselves. Building a learners confidence leads to more motivated students, it overcomes that uncomfortable use of their consciouness.
+### Teaching Philosophy
+Learning is natural human activity, teaching is guiding learners how to think about a subject so the knowledge becomes part of themselves. Building learners confidence leads to more motivated students, it overcomes that uncomfortable use of their consciousness.
 
 ### Teaching goals
-To expand my teaching craft that is true to my heterodox pedagogy with the intention empower deeper online teaching Edtech so that students find a interest in the dicipline to go on their own learning journey. 
+To expand my teaching craft that is true to my heterodox pedagogy to empower deeper online teaching Edtech so that students find an interest in the discipline to go on their learning journey. 
 
 ### Experience
 Training and Assessor at Institute of Training and Further Education, Melbourne, Australia
-`Delivery of Certitifate III in Micro Business to adult learners in Sheperton, Geelong, and Preston. It was a workbook based curiculum as learners researched and  built up their business idea to market readiness. 
+`Delivery of Certificate III in Micro Business to adult learners in Shepperton, Geelong, and Preston. It was a workbook-based curriculum as learners researched and built up their business idea to market readiness. 
 
 Training director to Ewise online learning https://ewise.edu.vn/thanh-vien/giangvien1/
-Assisting with the transition from a tradition classroom setting to an online presence. Learners were adult Vietnamese localed around the world which required improved English language skills. 
+Assisting with the transition from a traditional classroom setting to an online presence. Learners were adult Vietnamese located around the world which required improved English language skills. 
 
 Instructional Designer at Brainwork 
-Refining American-based ESL programs for staf at Viettel's HQ. Developing learning material for corporate clients. 
+Refining American-based ESL programs for staff at Viettel's HQ. Developing learning material for corporate clients. 
 
 
 Lecturer at Học Viện Ngân Hàng for the Sunderland University BTEC program. 
-Delivering practical skills development UK circulum using case studies; projects and practical exercises. Designing and applying a standardised approach to formative feedback expectations. Hosting expert speakers to present to the cohort. Sitting in on dicussions with Korean visiting lecturers pressenting PPP research. 
+Delivering practical skills development UK curriculum using case studies; projects and practical exercises. Designing and applying a standardised approach to formative feedback expectations. Hosting expert speakers to present to the cohort. Sitting in on discussions with Korean visiting lecturers presenting PPP research. 
 
- Delivering: Business Organisation and Environment, Marketing strategy, Project Management. Assessing Master of Science in Finance dissertation.
+ Delivering: Business Organisation and Environment, Marketing strategy, Project Management. Assessing the Master of Science in Finance dissertation.
 Lecturer at Khoa Quốc tế - ĐHQGHN
 
 ### Documentation of Your Teaching
@@ -76,20 +73,17 @@ https://vimeo.com/374075235
 
 ### Education
 Bachelor of Design (Communication Design), Swinburne School of Design, Melbourne, Australia
-A replication of the Bauhaus School heterodox pedagogy to explore many disiciplines hands-on.
+A replication of the Bauhaus School heterodox pedagogy to explore many disciplines hands-on.
 
-Graduate Certificate of TESOL, Victoria Univeristy, Melbourne, Australia
+Graduate Certificate of TESOL, Victoria University, Melbourne, Australia
 A program exploring building English Medium Instruction to helps non-English native learners. The Elearning subject AED5023, build an understanding of Edtech.
 
-Master of Business Administration, Victoria Univeristy, Melbourne, Australia
+Master of Business Administration, Victoria University, Melbourne, Australia
 A general business program with a cultural differences tilt, exploring Hofstede's understanding. 
 
 Current study
-Graduate Certificate of Tertiary Teaching, Univeristy of Southern Queensland
+Graduate Certificate of Tertiary Teaching, University of Southern Queensland
 
-### Certificatation
+### Certification
 Certificate IV in Teaching and Assessment, HBA Learning, Melbourne, Australia
 First Aid certificate 
-
-
-
