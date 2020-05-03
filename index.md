@@ -1,4 +1,4 @@
-##  Gregory's Teaching Portfolio
+
 
 
 ### Teaching Philosphy
