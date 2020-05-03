@@ -4,21 +4,21 @@
 ### Teaching Philosphy
 Learning is natural human activity, teaching is guiding learners how to think about a subject so the knowledge becomes part of themselves. Building a learners confidence leads to more motivated students, it overcomes that uncomfortable use of their consciouness.
 
-
+https://vimeo.com/381797279
 
 Workshops
 ESL video 
-<iframe src="https://player.vimeo.com/video/141264472" width="640" height="559" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+https://vimeo.com/141264472
 Information skills using the van Deursen (2010) framework 
-<iframe src="https://player.vimeo.com/video/381797279" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+https://vimeo.com/381797279
 Email marketing training for WWF-Vietnam 
-<iframe src="https://player.vimeo.com/video/224427701" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+https://vimeo.com/224427701
 
 Leasons 
 Direct instruction of Developing and Maintaining Long-term Relationships
-<iframe src="https://player.vimeo.com/video/369258156" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+https://vimeo.com/369258156
 Direct instruction of Branding and Positioning
-<iframe src="https://player.vimeo.com/video/374075235" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+https://vimeo.com/374075235
 
 ### Education
 Bachelor of Design (Communication Design), Swinburne School of Design, Melbourne, Australia
@@ -43,4 +43,5 @@ Training director to Ewise online learning
 Instructional Designer at Brainwork 
 Lecturer at Học Viện Ngân Hàng for the Sunderland University BTEC program. 
  Delivering: Business Organisation and Environment, Marketing strategy, Project      Management. Assessing Master of Science in Finance dissertation.
-Lecturer at Khoa Quốc tế - ĐHQGHN 
+Lecturer at Khoa Quốc tế - ĐHQGHN
+
