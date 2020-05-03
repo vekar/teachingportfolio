@@ -4,17 +4,18 @@
 ### Teaching Philosphy
 Learning is natural human activity, teaching is guiding learners how to think about a subject so the knowledge becomes part of themselves. Building a learners confidence leads to more motivated students, it overcomes that uncomfortable use of their consciouness.
 
-https://vimeo.com/381797279
+
 
 #### Workshops
 ESL video 
-https://vimeo.com/141264472
+Video https://vimeo.com/141264472
 
 Information skills using the van Deursen (2010) framework 
-https://vimeo.com/381797279
+[Video link ](https://vimeo.com/381797279 "Classroom video")
+[Handout link ](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A6b1dabfb-420c-4602-9dce-ffb703a1cedd "Workshop handout")
 
 Email marketing training for WWF-Vietnam 
-https://vimeo.com/224427701
+![Instructional video](https://vimeo.com/224427701)
 
 #### Leasons 
 Direct instruction of Developing and Maintaining Long-term Relationships
