@@ -17,12 +17,14 @@ Information skills using the van Deursen (2010) framework
 Email marketing training for WWF-Vietnam 
 ![Instructional video](https://vimeo.com/224427701)
 
-#### Leasons 
+#### Lessons 
 Direct instruction of Developing and Maintaining Long-term Relationships
 https://vimeo.com/369258156
 
 Direct instruction of Branding and Positioning
 https://vimeo.com/374075235
+
+![Elearning]({{site.baseurl}}/https://github.com/vekar/teachingportfolio/blob/master/E-Learning-project.gif)
 
 ### Education
 Bachelor of Design (Communication Design), Swinburne School of Design, Melbourne, Australia
